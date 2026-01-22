@@ -81,7 +81,7 @@ nav ul {
 /* header */
 
 .hero {
-    background: url(Folder/assets/hero-bg.png);
+    background: url(Folder/Assets/hero-bg.png);
     height: 800px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,7 +102,7 @@ nav ul {
 }
 
 .item-style-p {
-    background: url(Folder/assets/round.png);
+    background: url(Folder/Assets/round.png);
     background-size: 16px 16px;
     background-repeat: no-repeat;
     background-position: center;
@@ -178,7 +178,7 @@ nav ul {
 }
 
 .btn2 {
-    background-image: url(Folder/assets/play.png);
+    background-image: url(Folder/Assets/play-buttton.png);
     background-position: center;
     background-size: 18.375336647033691px 20.872360229492188px;
     background-repeat: no-repeat;
